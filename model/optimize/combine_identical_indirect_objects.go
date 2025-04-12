@@ -8,7 +8,7 @@ package optimize
 import (
 	"crypto/md5"
 
-	"github.com/unidoc/unipdf/v3/core"
+	"github.com/0xTanvir/fnipdf/core"
 )
 
 // CombineIdenticalIndirectObjects combines identical indirect objects.

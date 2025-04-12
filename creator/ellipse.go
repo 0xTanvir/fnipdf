@@ -6,8 +6,8 @@
 package creator
 
 import (
-	"github.com/unidoc/unipdf/v3/contentstream/draw"
-	"github.com/unidoc/unipdf/v3/model"
+	"github.com/0xTanvir/fnipdf/contentstream/draw"
+	"github.com/0xTanvir/fnipdf/model"
 )
 
 // Ellipse defines an ellipse with a center at (xc,yc) and a specified width and height.  The ellipse can have a colored

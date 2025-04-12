@@ -10,8 +10,8 @@ package core
 import (
 	"testing"
 
-	"github.com/unidoc/unipdf/v3/common"
-	"github.com/unidoc/unipdf/v3/core/security"
+	"github.com/0xTanvir/fnipdf/common"
+	"github.com/0xTanvir/fnipdf/core/security"
 )
 
 func init() {

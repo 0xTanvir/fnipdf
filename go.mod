@@ -1,4 +1,4 @@
-module github.com/unidoc/unipdf/v3
+module github.com/0xTanvir/fnipdf
 
 go 1.11
 

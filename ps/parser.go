@@ -12,8 +12,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/unidoc/unipdf/v3/common"
-	pdfcore "github.com/unidoc/unipdf/v3/core"
+	"github.com/0xTanvir/fnipdf/common"
+	pdfcore "github.com/0xTanvir/fnipdf/core"
 )
 
 // PSParser is a basic Postscript parser.

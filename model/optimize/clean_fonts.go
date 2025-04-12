@@ -11,11 +11,11 @@ import (
 
 	"github.com/unidoc/unitype"
 
-	"github.com/unidoc/unipdf/v3/common"
-	"github.com/unidoc/unipdf/v3/core"
-	"github.com/unidoc/unipdf/v3/extractor"
-	"github.com/unidoc/unipdf/v3/internal/textencoding"
-	"github.com/unidoc/unipdf/v3/model"
+	"github.com/0xTanvir/fnipdf/common"
+	"github.com/0xTanvir/fnipdf/core"
+	"github.com/0xTanvir/fnipdf/extractor"
+	"github.com/0xTanvir/fnipdf/internal/textencoding"
+	"github.com/0xTanvir/fnipdf/model"
 )
 
 // CleanFonts cleans up embedded fonts, reducing font sizes.

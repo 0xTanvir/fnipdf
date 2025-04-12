@@ -8,8 +8,8 @@ package creator
 import (
 	"os"
 
-	"github.com/unidoc/unipdf/v3/contentstream/draw"
-	"github.com/unidoc/unipdf/v3/model"
+	"github.com/0xTanvir/fnipdf/contentstream/draw"
+	"github.com/0xTanvir/fnipdf/model"
 )
 
 // Loads the template from path as a list of pages.

@@ -14,12 +14,12 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/unidoc/unipdf/v3/common"
-	"github.com/unidoc/unipdf/v3/fdf"
-	"github.com/unidoc/unipdf/v3/fjson"
-	"github.com/unidoc/unipdf/v3/model"
+	"github.com/0xTanvir/fnipdf/common"
+	"github.com/0xTanvir/fnipdf/fdf"
+	"github.com/0xTanvir/fnipdf/fjson"
+	"github.com/0xTanvir/fnipdf/model"
 
-	"github.com/unidoc/unipdf/v3/internal/testutils"
+	"github.com/0xTanvir/fnipdf/internal/testutils"
 )
 
 func init() {

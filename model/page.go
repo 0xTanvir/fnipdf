@@ -18,8 +18,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/unidoc/unipdf/v3/common"
-	"github.com/unidoc/unipdf/v3/core"
+	"github.com/0xTanvir/fnipdf/common"
+	"github.com/0xTanvir/fnipdf/core"
 )
 
 // PdfPage represents a page in a PDF document. (7.7.3.3 - Table 30).

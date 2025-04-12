@@ -8,10 +8,10 @@ package bitmap
 import (
 	"image"
 
-	"github.com/unidoc/unipdf/v3/common"
+	"github.com/0xTanvir/fnipdf/common"
 
-	"github.com/unidoc/unipdf/v3/internal/jbig2/basic"
-	"github.com/unidoc/unipdf/v3/internal/jbig2/errors"
+	"github.com/0xTanvir/fnipdf/internal/jbig2/basic"
+	"github.com/0xTanvir/fnipdf/internal/jbig2/errors"
 )
 
 // Component is the component definition enum.

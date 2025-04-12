@@ -12,7 +12,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/unidoc/unipdf/v3/model"
+	"github.com/0xTanvir/fnipdf/model"
 )
 
 var (

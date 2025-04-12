@@ -11,8 +11,8 @@ import (
 	"math"
 	"sort"
 
-	"github.com/unidoc/unipdf/v3/common"
-	"github.com/unidoc/unipdf/v3/model"
+	"github.com/0xTanvir/fnipdf/common"
+	"github.com/0xTanvir/fnipdf/model"
 )
 
 // makeTextPage builds a paraList from `marks`, the textMarks on a page.

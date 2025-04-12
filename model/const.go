@@ -9,7 +9,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/unidoc/unipdf/v3/core"
+	"github.com/0xTanvir/fnipdf/core"
 )
 
 // Errors when parsing/loading data in PDF.

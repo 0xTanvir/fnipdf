@@ -12,9 +12,9 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/unidoc/unipdf/v3/common"
-	"github.com/unidoc/unipdf/v3/core"
-	"github.com/unidoc/unipdf/v3/model"
+	"github.com/0xTanvir/fnipdf/common"
+	"github.com/0xTanvir/fnipdf/core"
+	"github.com/0xTanvir/fnipdf/model"
 )
 
 // Creator is a wrapper around functionality for creating PDF reports and/or adding new

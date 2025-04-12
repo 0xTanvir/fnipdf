@@ -10,9 +10,9 @@ import (
 	"image/color"
 	"math"
 
-	"github.com/unidoc/unipdf/v3/common"
-	"github.com/unidoc/unipdf/v3/internal/transform"
-	"github.com/unidoc/unipdf/v3/model"
+	"github.com/0xTanvir/fnipdf/common"
+	"github.com/0xTanvir/fnipdf/internal/transform"
+	"github.com/0xTanvir/fnipdf/model"
 )
 
 // textMark represents text drawn on a page and its position in device coordinates.

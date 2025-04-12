@@ -6,8 +6,8 @@
 package classer
 
 import (
-	"github.com/unidoc/unipdf/v3/internal/jbig2/bitmap"
-	"github.com/unidoc/unipdf/v3/internal/jbig2/errors"
+	"github.com/0xTanvir/fnipdf/internal/jbig2/bitmap"
+	"github.com/0xTanvir/fnipdf/internal/jbig2/errors"
 )
 
 // Settings keeps the settings for the classer.

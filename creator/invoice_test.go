@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/unidoc/unipdf/v3/model"
+	"github.com/0xTanvir/fnipdf/model"
 )
 
 func TestInvoiceSimple(t *testing.T) {

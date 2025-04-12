@@ -12,12 +12,12 @@ import (
 	"math"
 	"strings"
 
-	"github.com/unidoc/unipdf/v3/common"
+	"github.com/0xTanvir/fnipdf/common"
 
-	"github.com/unidoc/unipdf/v3/internal/jbig2/basic"
-	"github.com/unidoc/unipdf/v3/internal/jbig2/errors"
-	"github.com/unidoc/unipdf/v3/internal/jbig2/reader"
-	"github.com/unidoc/unipdf/v3/internal/jbig2/writer"
+	"github.com/0xTanvir/fnipdf/internal/jbig2/basic"
+	"github.com/0xTanvir/fnipdf/internal/jbig2/errors"
+	"github.com/0xTanvir/fnipdf/internal/jbig2/reader"
+	"github.com/0xTanvir/fnipdf/internal/jbig2/writer"
 )
 
 // Header is the segment header used to define the segment parameters - see 7.2.

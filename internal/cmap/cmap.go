@@ -10,9 +10,9 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/unidoc/unipdf/v3/common"
-	"github.com/unidoc/unipdf/v3/core"
-	"github.com/unidoc/unipdf/v3/internal/cmap/bcmaps"
+	"github.com/0xTanvir/fnipdf/common"
+	"github.com/0xTanvir/fnipdf/core"
+	"github.com/0xTanvir/fnipdf/internal/cmap/bcmaps"
 )
 
 const (

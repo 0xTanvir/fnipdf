@@ -10,10 +10,10 @@ import (
 	"math"
 	"sort"
 
-	"github.com/unidoc/unipdf/v3/common"
-	"github.com/unidoc/unipdf/v3/contentstream/draw"
-	"github.com/unidoc/unipdf/v3/core"
-	"github.com/unidoc/unipdf/v3/model"
+	"github.com/0xTanvir/fnipdf/common"
+	"github.com/0xTanvir/fnipdf/contentstream/draw"
+	"github.com/0xTanvir/fnipdf/core"
+	"github.com/0xTanvir/fnipdf/model"
 )
 
 // Table allows organizing content in an rows X columns matrix, which can spawn across multiple pages.

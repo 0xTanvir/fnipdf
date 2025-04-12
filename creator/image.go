@@ -11,11 +11,11 @@ import (
 	goimage "image"
 	"os"
 
-	"github.com/unidoc/unipdf/v3/common"
-	"github.com/unidoc/unipdf/v3/contentstream"
-	"github.com/unidoc/unipdf/v3/contentstream/draw"
-	"github.com/unidoc/unipdf/v3/core"
-	"github.com/unidoc/unipdf/v3/model"
+	"github.com/0xTanvir/fnipdf/common"
+	"github.com/0xTanvir/fnipdf/contentstream"
+	"github.com/0xTanvir/fnipdf/contentstream/draw"
+	"github.com/0xTanvir/fnipdf/core"
+	"github.com/0xTanvir/fnipdf/model"
 )
 
 // The Image type is used to draw an image onto PDF.

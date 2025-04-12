@@ -27,14 +27,14 @@ import (
 	"github.com/boombuler/barcode/qr"
 	"github.com/stretchr/testify/require"
 
-	"github.com/unidoc/unipdf/v3/common"
-	"github.com/unidoc/unipdf/v3/contentstream/draw"
-	"github.com/unidoc/unipdf/v3/core"
-	"github.com/unidoc/unipdf/v3/extractor"
-	"github.com/unidoc/unipdf/v3/model"
-	"github.com/unidoc/unipdf/v3/model/optimize"
+	"github.com/0xTanvir/fnipdf/common"
+	"github.com/0xTanvir/fnipdf/contentstream/draw"
+	"github.com/0xTanvir/fnipdf/core"
+	"github.com/0xTanvir/fnipdf/extractor"
+	"github.com/0xTanvir/fnipdf/model"
+	"github.com/0xTanvir/fnipdf/model/optimize"
 
-	"github.com/unidoc/unipdf/v3/internal/testutils"
+	"github.com/0xTanvir/fnipdf/internal/testutils"
 )
 
 func init() {
